@@ -1,0 +1,7 @@
+body-parser = for parsing request body
+ejs = embedded javascript(ejs) template engine
+const hostname = "127.0.0.1"
+
+In docker-compose.yml
+ ports:
+      - '80:3000'
